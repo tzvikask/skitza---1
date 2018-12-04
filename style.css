@@ -1,0 +1,18 @@
+body {
+    background-color: antiquewhite
+}
+
+p.one {
+    direction: rtl;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 35%;
+}
+
+p.two {
+    direction: rtl;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.three {
+    direction: rtl;   
+}
